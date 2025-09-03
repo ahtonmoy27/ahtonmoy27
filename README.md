@@ -49,7 +49,7 @@ Improving **system design skills** and exploring **cloud-native application deve
 ---
  
 ### 🌐 Connect with me:  
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40">](https://github.com/ahtonmoy27) 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40">](https://www.linkedin.com/in/hasnat16/) 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="40">](https://www.facebook.com/AbulHasnatTonmoy)
+[<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" height="40" width="40">](https://github.com/ahtonmoy27)
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="40" width="40">](https://www.linkedin.com/in/hasnat16/)
+[<img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="facebook" height="40" width="40">](https://www.facebook.com/AbulHasnatTonmoy)
 
