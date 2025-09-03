@@ -1,4 +1,4 @@
-### Hi there 👋, Hello , I am Abul Hasnat Tonmoy  
+###  Hello , I am Abul Hasnat Tonmoy  
 #### Backend-Focused Web Developer | Laravel • PHP • REST API  
 ![I am Web Developer (Backend Focus)](https://i.postimg.cc/R0jjwFy5/Tonmoy.jpg)
 
@@ -16,8 +16,6 @@ I’m a **self-driven learner** with a strong passion for writing **clean, effic
 - ✅ PHP  
 - ✅ HTML5 / CSS3 / SASS / Bootstrap  
 - ✅ Photoshop / Illustrator  
-
-**Skills:** Laravel / jQuery / Bootstrap / JavaScript / HTML / CSS / MySQL  
 
 ---
 
