@@ -37,15 +37,6 @@ Building scalable web applications using **Laravel** and contributing to **full-
 ### 🌱 I’m currently learning...  
 **React.js, REST API best practices, and advanced Laravel concepts** to grow as a full-stack developer.  
 
-### 👯 I’m looking to collaborate on...  
-Open-source projects related to **web development, backend systems, or problem-solving platforms.**  
-
-### 🤔 I’m looking for help with...  
-Improving **system design skills** and exploring **cloud-native application development.**  
-
-### 💬 Ask me about...  
-**Laravel, PHP, competitive programming (C/C++), and backend development best practices.**  
-
 ---
 
 ### 📫 How to reach me:
