@@ -21,8 +21,8 @@ I’m a **self-driven learner** with a strong passion for writing **clean, effic
 
 ### 📊 Most Used Languages  
 
-| Language   | Usage %  | Icon |
-|------------|----------|------|
+| Language   | Usage %  |
+|------------|----------|
 | ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) | **51.17%** |
 | ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white) | **22.32%**  |
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) | **12.12%**  |
