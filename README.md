@@ -2,7 +2,7 @@
 #### I am Web  Developer ( Backend Focus )
 ![I am Web  Developer ( Backend Focus )](https://i.postimg.cc/R0jjwFy5/Tonmoy.jpg)
 
-I’m an Associate Software Engineer at Themetags, specializing in backend development with PHP (Laravel). I collaborate closely with frontend teams to build high-performance, scalable web applications.
+I’m an **Associate Software Engineer** at **Themetags**, specializing in backend development with PHP (Laravel). I collaborate closely with frontend teams to build high-performance, scalable web applications.
 
 I hold a B.Sc. in Computer Science and Engineering from Islamic University, Bangladesh. Since 2019, I’ve actively participated in 80+ programming contests (online and onsite) and solved 1,500+ problems across various online judges using C/C++.
 
