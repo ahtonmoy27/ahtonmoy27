@@ -24,5 +24,5 @@ Skills: laravel / Jquery / BootStrap / JS / HTML / CSS /Mysql
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/ahtonmoy27)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/ahtonmoy27&show_icons=true)  
+
 
